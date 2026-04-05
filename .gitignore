@@ -1,0 +1,17 @@
+# Compiled binaries
+CodingTest3108
+CoidingTest3004
+Exercise
+test
+
+# macOS
+.DS_Store
+*.dSYM/
+
+# VSCode
+.vscode/
+
+# Object files
+*.o
+*.out
+a.out
